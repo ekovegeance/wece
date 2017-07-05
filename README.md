@@ -10,7 +10,7 @@ wece is a remake of Lazykali by bradfreda with fixed bugs , added  new features 
 
 ## :scroll: Changelog
 wece gets updated weekly with new features, improvements and bugfixes.
-Be sure to check out the [Changelog] now Updated Lalin v5.0 ( 5-07-2017 )
+Be sure to check out the [Changelog] now Updated wece v5.0 ( 5-07-2017 )
 
 
 ## :book: How it works
