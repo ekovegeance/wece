@@ -6,7 +6,7 @@ wece is a remake of Lazykali by bradfreda with fixed bugs , added  new features 
 
 ### Donate
 - If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
-- [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://blockchain.info/address/15AvbuWtVfkA1rCWxJ29j22qwN9z1cBnE7)
+- [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://blockchain.info/address/13StAcVxmfSSh6DPiJhRLe9DNBF7xP42ia)
 
 ## :scroll: Changelog
 wece gets updated weekly with new features, improvements and bugfixes.
@@ -40,9 +40,9 @@ $ sudo ./wece
 
 ## Donations
 
-- Donation: Send to [bitcoin](https://blockchain.info/address/15AvbuWtVfkA1rCWxJ29j22qwN9z1cBnE7)
-
-- Addres Bitcoin : 15AvbuWtVfkA1rCWxJ29j22qwN9z1cBnE7
+- Donation: Send to [bitcoin](https://blockchain.info/address/13StAcVxmfSSh6DPiJhRLe9DNBF7xP42ia)
+- Address bitcoin : 13StAcVxmfSSh6DPiJhRLe9DNBF7xP42ia
+- Address ether   : 0x6664e250107110c0C3642029a18c9ce8F4C27288
 
 
 ## :octocat: Credits
