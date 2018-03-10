@@ -1,8 +1,9 @@
 # wece is the future
 
 ## Update: Version 5.0
-[![Build Status](https://travis-ci.org/pages-themes/leap-day.svg?branch=master)] 5.0 
-[![Gem Version] (https://badge.fury.io/rb/jekyll-theme-leap-day.svg)] 5.0
+[![Build Status](https://travis-ci.org/pages-themes/leap-day.svg?branch=master)
+[![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)
+
 
 wece is a remake of Lazykali by bradfreda with fixed bugs , added  new features and uptodate tools . It's compatible with the latest release of Parrotsec
 
