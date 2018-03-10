@@ -1,6 +1,8 @@
 # wece is the future
 
 ## Update: Version 5.0
+[![Build Status] 5.0
+[![Gem Version] 5.0
 
 wece is a remake of Lazykali by bradfreda with fixed bugs , added  new features and uptodate tools . It's compatible with the latest release of Parrotsec
 
