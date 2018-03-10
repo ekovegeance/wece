@@ -1,5 +1,5 @@
 # wece is the future
-![wece](https://github.com/ekovegeance/Picture/blob/master/evsystem.png)
+![wece](https://github.com/ekovegeance/Picture/blob/master/wece.png)
 
 ## Update: Version 5.0
 ![Build Status](https://travis-ci.org/pages-themes/leap-day.svg?branch=master)
