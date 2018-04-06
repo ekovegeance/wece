@@ -49,7 +49,7 @@ $ sudo ./wece
 
 ## :octocat: Contact
 - Website : https://evsystemsite.wordpress.com/
-- Facebook : https://web.facebook.com/eko.vegeance.1
+- Facebook : https://web.facebook.com/evsystem.org
 - Twitter : https://twitter.com/ekovegeance7
 - Telegram : https://t.me/evsystemsite
 - Google+ : https://plus.google.com/117233958552972040322?hl=id
