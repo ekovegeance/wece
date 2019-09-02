@@ -48,8 +48,8 @@ $ sudo ./wece
  
 
 ## :octocat: Contact
-- Website : https://evsystemsite.wordpress.com/
-- Facebook : https://facebook.com/evsystem.org
+- Website : https://evsystem.github.io/
+- Facebook : https://facebook.com/evsystem.oi
 - Twitter : https://twitter.com/ekovegeance7
 - Telegram : https://t.me/evsystemsite
 - Google+ : https://plus.google.com/117233958552972040322?hl=id
