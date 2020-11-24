@@ -39,20 +39,14 @@ $ sudo ./wece
 
 
 
-## Donations
-
-- Address bitcoin : 1CXqJujxt3MV9ujRwwQtM6Y1oeWsGJfEbc
-- Address dogecoin   : D8LgXt1yjTXxSyMkxb6e5s26WQTmEx1JNj
-
 
  
 
 ## :octocat: Contact
-- Website : https://evsystem.github.io/
-- Facebook : https://facebook.com/evsystem.io
+- Website : https://www.ekovegeance.xyz
+- Facebook : https://facebook.com/ekovegeance.xyz
 - Twitter : https://twitter.com/ekovegeance7
-- Telegram : https://t.me/evsystemsite
-- Google+ : https://plus.google.com/117233958552972040322?hl=id
+- Telegram : https://t.me/ekovegeance
 
 ## : Partner
 - Xenta OS : http://www.xentaos.org/
